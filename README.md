@@ -20,8 +20,10 @@ O sistema gerencia uma locadora de automóveis, permitindo o cadastro de usuári
 
 🏗️Estrutura do Projeto
 
-src/
-├── main/
+src\
+
+├── main\
+
 │└── java/
 │       └── com/
 │           └── mycompany/
