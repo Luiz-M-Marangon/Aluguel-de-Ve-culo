@@ -25,29 +25,29 @@ src/
 
 ├── main/\
 
-│    |└─ java/\
+│|└─ java/\
 
-│     |  └─ com/\
+│||└─ com/\
 
-│      |     └─ mycompany/\
+│|||└─ mycompany/\
 
-│       |        └─ locadora/\
+│||||└─ locadora/\
 
-│                   ├── Locadora.java                  # Classe principal\
+│|||||── Locadora.java                   # Classe principal\
 
-│                   ├── telas/\
+│|||||├── telas/\
 
-│                   │   ├── TelaPrincipal.java        # Janela principal com abas\
+│|||||├── TelaPrincipal.java            # Janela principal com abas\
 
-│                   │   ├── TelaUsuarios.java         # CRUD de usuários\
+│|||||├── TelaUsuarios.java             # CRUD de usuários\
 
-│                   │   ├── TelaVeiculos.java         # CRUD de veículos\
+│|||||├── TelaVeiculos.java             # CRUD de veículos\
 
-│                   │   └── TelaAlugueis.java         # Controle de aluguéis\
+│|||||└── TelaAlugueis.java             # Controle de aluguéis\
 
-│                   └── util\
+│|||||└── util\
 
-│                   |   └── Validadores.java          # Centralizador de validações\
+│|||||└── Validadores.java              # Centralizador de validações\
 
 
 
