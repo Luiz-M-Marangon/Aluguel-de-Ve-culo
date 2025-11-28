@@ -44,7 +44,7 @@ src/
 
 │                   │   └── TelaAlugueis.java         # Controle de aluguéis\
 
-│                   └── util/\
+│                   └── util\
 
 │                       └── Validadores.java          # Centralizador de validações\
 
