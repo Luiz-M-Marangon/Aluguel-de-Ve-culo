@@ -32,15 +32,22 @@ src/
 
 │               └─ locadora/\
 
-│                   ├── Locadora.java\
-# Classe principal
-│                   ├── telas/
-│                   │   ├── TelaPrincipal.java        # Janela principal com abas
-│                   │   ├── TelaUsuarios.java         # CRUD de usuários
-│                   │   ├── TelaVeiculos.java         # CRUD de veículos
-│                   │   └── TelaAlugueis.java         # Controle de aluguéis
-│                   └── util/
-│                       └── Validadores.java          # Centralizador de validações
+│                   ├── Locadora.java                  # Classe principal\
+
+│                   ├── telas/\
+
+│                   │   ├── TelaPrincipal.java        # Janela principal com abas\
+
+│                   │   ├── TelaUsuarios.java         # CRUD de usuários\
+
+│                   │   ├── TelaVeiculos.java         # CRUD de veículos\
+
+│                   │   └── TelaAlugueis.java         # Controle de aluguéis\
+
+│                   └── util/\
+
+│                       └── Validadores.java          # Centralizador de validações\
+
 
 
 ###🎨Temas FlatLaf
