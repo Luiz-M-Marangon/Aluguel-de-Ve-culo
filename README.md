@@ -22,10 +22,10 @@
 
 src/
 ├── main/
-│   └── java/
-│       └── com/
-│           └── mycompany/
-│               └── locadora/
+│   └─ java/
+│       └─ com/
+│           └─ mycompany/
+│               └─ locadora/
 │                   ├── Locadora.java                 # Classe principal
 │                   ├── telas/
 │                   │   ├── TelaPrincipal.java        # Janela principal com abas
