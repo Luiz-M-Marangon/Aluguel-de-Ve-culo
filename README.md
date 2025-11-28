@@ -48,6 +48,7 @@ src/
 * Swing
 
 🎯Observações
+
 ⚠️Para conseguir associar um usuário cadastrado a um veículo, deve-se primeiro clicar em "🔄Atualizar Listas"
 
 🔧Melhorias Futuras
