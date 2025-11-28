@@ -68,7 +68,7 @@ src\
 * IDE NetBeans
 
 🎯Observações\
-⚠️Para conseguir associar um usuário cadastrado a um veículo, deve-se primeiro clicar em "🔄Atualizar Listas"
+⚠️Para conseguir associar um usuário cadastrado a um veículo, deve-se primeiro clicar em "🔄Atualizar Listas" para atualizar o registro em Alugueis
 
 🔧Melhorias Futuras
 * Persistência em banco de dados real
