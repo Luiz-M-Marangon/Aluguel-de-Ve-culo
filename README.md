@@ -19,19 +19,19 @@ O sistema gerencia uma locadora de automóveis, permitindo o cadastro de usuári
 * **Tabelas Interativas**: Permitem ao usuário fazer diferentes ordenações
 * **Formulário intuitivos e feedback visual**: Validação em tempo real com mensagens de erro e sucesso
 
-###🏗️Estrutura do Projeto
+🏗️Estrutura do Projeto
 
 src/  
 
 ├── main/\
 
-│    └─ java/\
+│    |└─ java/\
 
-│       └─ com/\
+│     |  └─ com/\
 
-│           └─ mycompany/\
+│      |     └─ mycompany/\
 
-│               └─ locadora/\
+│       |        └─ locadora/\
 
 │                   ├── Locadora.java                  # Classe principal\
 
@@ -47,7 +47,7 @@ src/
 
 │                   └── util\
 
-│                       └── Validadores.java          # Centralizador de validações\
+│                   |   └── Validadores.java          # Centralizador de validações\
 
 
 
