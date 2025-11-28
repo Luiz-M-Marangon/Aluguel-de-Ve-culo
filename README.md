@@ -77,8 +77,23 @@ src\
 * Sistema de logins e permissões
 * Relatórios em PDF
 
-
+📷 Tela Principal - Tema Claro
 <img width="985" height="690" alt="image" src="https://github.com/user-attachments/assets/3e5882be-ce9d-473d-879a-20272c4ea43b" />
+
+📷 Tela Principal - Tema Escuro
+<img width="984" height="693" alt="image" src="https://github.com/user-attachments/assets/8f62b0e7-d9bb-4780-90c4-83b8aaaa3736" />
+
+📷 Cadastro Usuário - Validação campo Email
+<img width="952" height="356" alt="image" src="https://github.com/user-attachments/assets/baef30a5-a682-4a80-aa22-4b2882c45771" />
+
+📷 Cadastro Veículos - Validação campo Placa
+<img width="957" height="372" alt="image" src="https://github.com/user-attachments/assets/af185529-e75f-43cb-b784-20d26868e5dd" />
+
+📷 Tela Aluguel - Associação entre Usuário e Veículo
+<img width="979" height="688" alt="image" src="https://github.com/user-attachments/assets/06bf3131-a74f-4e52-acb5-40e262403bab" />
+
+📷 Tela Fechamento de Aluguel - Usuário é obrigado a informar km final maior que a inicial
+<img width="267" height="242" alt="image" src="https://github.com/user-attachments/assets/c59a34c0-fb2c-4e8b-9fc2-b04fad2134f3" />
 
 
 \
