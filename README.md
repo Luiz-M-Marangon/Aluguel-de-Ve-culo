@@ -65,6 +65,7 @@ src\
 * Hibernate 7.2.0
 * Maven
 * Swing
+* IDE NetBeans
 
 🎯Observações\
 ⚠️Para conseguir associar um usuário cadastrado a um veículo, deve-se primeiro clicar em "🔄Atualizar Listas"
