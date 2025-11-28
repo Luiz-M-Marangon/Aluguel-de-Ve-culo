@@ -27,6 +27,19 @@ src/
 │           └── mycompany/
 │               └── locadora/
 │                   ├── Locadora.java                 # Classe principal
+|                   ├── dao/
+│                   │   ├── AluguelDAO.java
+│                   │   ├── GenericDao.java
+│                   │   ├── UsuarioDAO.java
+│                   │   ├── VeiculoDAO.java
+|                   ├── model/
+│                   │   ├── Aluguel.java
+│                   │   ├── Usuario.java
+│                   │   ├── Veiculo.java
+|                   ├── service/
+│                   │   ├── AluguelService.java
+│                   │   ├── UsuarioService.java
+│                   │   ├── VeiculoService.java
 │                   ├── telas/
 │                   │   ├── TelaPrincipal.java        # Janela principal com abas
 │                   │   ├── TelaUsuarios.java         # CRUD de usuários
@@ -34,6 +47,8 @@ src/
 │                   │   └── TelaAlugueis.java         # Controle de aluguéis
 │                   └── util/
 │                       └── Validadores.java          # Centralizador de validações
+│                   └── resources/
+│                       └── hibernate.cfg.xml
 
 
 🎨Temas FlatLaf
