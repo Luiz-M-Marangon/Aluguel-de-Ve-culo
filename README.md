@@ -20,9 +20,10 @@
 
 ###🏗️Estrutura do Projeto
 
-src/
-├── main/
-│   └─ java/
+src/  
+
+├── main/\
+│    └─ java/
 │       └─ com/
 │           └─ mycompany/
 │               └─ locadora/
