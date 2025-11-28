@@ -77,6 +77,10 @@ src\
 * Sistema de logins e permissões
 * Relatórios em PDF
 
+
+<img width="985" height="690" alt="image" src="https://github.com/user-attachments/assets/3e5882be-ce9d-473d-879a-20272c4ea43b" />
+
+
 \
 👨‍💻 Desenvolvida por
 Luiz Mário Marangon - luizmarangonzz11@gmail.com
