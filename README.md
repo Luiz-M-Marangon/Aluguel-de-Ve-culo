@@ -66,6 +66,7 @@ src\
 * Maven
 * Swing
 * IDE NetBeans
+* Uso de inteligência artificial para auxílio com FlatLaf, BackEnd/FronEnd e ao aplicar hibernate de forma mais coesa 
 
 🎯Observações\
 ⚠️Para conseguir associar um usuário cadastrado a um veículo recém cadastrados, deve-se primeiro clicar em "🔄Atualizar Listas" para atualizar o registro em Alugueis
