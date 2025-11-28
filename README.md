@@ -22,7 +22,7 @@ O sistema gerencia uma locadora de automóveis, permitindo o cadastro de usuári
 
 src/
 ├── main/
-│   └── java/
+│└── java/
 │       └── com/
 │           └── mycompany/
 │               └── locadora/
