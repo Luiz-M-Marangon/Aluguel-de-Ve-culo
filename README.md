@@ -93,7 +93,8 @@ src\
 <img width="979" height="688" alt="image" src="https://github.com/user-attachments/assets/06bf3131-a74f-4e52-acb5-40e262403bab" />
 
 📷 Tela Fechamento de Aluguel - Usuário é obrigado a informar km final maior que a inicial
-<img width="267" height="242" alt="image" src="https://github.com/user-attachments/assets/c59a34c0-fb2c-4e8b-9fc2-b04fad2134f3" />
+<img width="985" height="686" alt="image" src="https://github.com/user-attachments/assets/d67a4283-378e-45f6-9f24-3f279f62e994" />
+
 
 
 \
