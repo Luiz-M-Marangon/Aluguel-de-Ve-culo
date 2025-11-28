@@ -33,7 +33,7 @@ src/
 
 │||||└─ locadora/\
 
-│|||||── Locadora.java                   # Classe principal\
+│|||||└─ Locadora.java                   # Classe principal\
 
 │|||||├── telas/\
 
