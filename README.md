@@ -23,11 +23,17 @@
 src/  
 
 ├── main/\
-│    └─ java/
-│       └─ com/
-│           └─ mycompany/
-│               └─ locadora/
-│                   ├── Locadora.java                 # Classe principal
+
+│    └─ java/\
+
+│       └─ com/\
+
+│           └─ mycompany/\
+
+│               └─ locadora/\
+
+│                   ├── Locadora.java\
+# Classe principal
 │                   ├── telas/
 │                   │   ├── TelaPrincipal.java        # Janela principal com abas
 │                   │   ├── TelaUsuarios.java         # CRUD de usuários
